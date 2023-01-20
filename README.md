@@ -1,2 +1,2 @@
-# ClassiCube---Hell-Pluging
+# ClassiCube Hell-Pluging
 Turns your world to hell
